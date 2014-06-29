@@ -751,4 +751,4 @@ var Hogan = {};
 
 //---------------------- Init Object -----------------------
 
-this.Hogan = new Hogan;
+this.Hogan = Hogan;
