@@ -1,0 +1,8 @@
+{
+    "name": "hogan",
+    "description": "Hogan templating from Twitter (required by some frameworks/packages)",
+    "homepage": "https://github.com/alisalaah/meteor-hogan",
+    "author": "Ali Camarata  (http://alicamarata.com)",
+    "version": "1.0.0",
+    "git": "https://github.com/alisalaah/meteor-hogan.git"
+}
